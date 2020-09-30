@@ -296,7 +296,7 @@ ul{
       text-align: left;
   }
     .btn--primary {
-      width: 100%;
+      width: 10%;
     }
     .box{
       background-color:var(--secondary-clr);
