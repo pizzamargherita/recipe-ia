@@ -282,6 +282,9 @@ ul{
       display: inline-flexbox;
       justify-content: space-evenly;
   }
+  .btn--primary {
+    width: 50%;
+  }
  
   .main-menu {
       border-top: 5px solid var(--clr-body);
@@ -295,9 +298,6 @@ ul{
   li{
       text-align: left;
   }
-.btn--primary {
-      width: 50%;
-    }
     .box{
       background-color:var(--secondary-clr);
       border-radius: 2em;
