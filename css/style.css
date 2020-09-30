@@ -283,7 +283,7 @@ ul{
       justify-content: space-evenly;
   }
   .btn--primary {
-    width: 50%;
+    max-width: ;width: 50%;
   }
  
   .main-menu {
