@@ -283,6 +283,8 @@ ul{
       justify-content: space-evenly;
   }
   .btn--primary {
+    display: flex;
+    justify-content: space-evenly;
     max-width: 50%;
   }
  
