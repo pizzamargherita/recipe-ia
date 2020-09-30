@@ -61,7 +61,7 @@
     position: relative;
     height: 60%;
     overflow: hidden;
-    background: url("/img/banana-bread.jpg") no-repeat center;
+    background: url(/img/banana-bread.jpg) no-repeat center;
     background-position:center;
     background-size: cover;
     position: relative;

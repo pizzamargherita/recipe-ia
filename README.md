@@ -1,5 +1,3 @@
-
-TESTING 
 ## Planning
 
 - Document outline  
